@@ -3,9 +3,6 @@
 ## Description
 The online voting system is a web application developed using PHP and MySQL technologies. It aims to simulate a basic voting process where users can log in, cast their votes, and view the election results. The system is designed to showcase the implementation of fundamental functionalities typically found in real-world voting systems.
 
-## Live Demo
-Visit the live site: [Online Voting Platform](http://online-voting-platform.infinityfreeapp.com/?i=1)
-
 ## Key Features
 
 ### User Authentication
